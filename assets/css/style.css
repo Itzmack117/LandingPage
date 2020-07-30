@@ -76,6 +76,7 @@ h6 {
   color: #293651;
   margin: 0px; }
 
+
 h1 {
   font-size: 48px; }
 
@@ -106,6 +107,11 @@ p {
   color: #646F87;
   margin: 0px; }
 
+  .icon{
+    width: 3rem;
+    height: 3rem;
+  }
+  
 .bg_cover {
   background-position: center center;
   background-size: cover;
